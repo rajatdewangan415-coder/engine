@@ -1,6 +1,0 @@
-{
-    "name": "examples",
-    "exports": {
-        "./context": "./context.mjs"
-    }
-}
